@@ -1,7 +1,7 @@
 # discord-emoji-archiver
 A simple python script which can be used to archive all of the emojis within a server. 
 
-The script is intentionally incredible as I wrote it for a one time use. I am not planning on changing it further. 
+The script is intentionally simple as I wrote it for a one time use. I am not planning on changing it further. 
 
 
 ### Usage
