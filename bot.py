@@ -1,5 +1,6 @@
 import discord
 import requests
+import os
 
 bot = discord.Client(self_bot=True)
 
